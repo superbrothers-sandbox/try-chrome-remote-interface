@@ -1,0 +1,15 @@
+{
+  "name": "try-chrome-remote-interface",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {},
+  "author": "Kazuki Suda <kazuki.suda@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chrome-remote-interface": "^0.19.0"
+  },
+  "scripts": {
+    "start": "node main.js",
+    "clean": "rm -rf *.png"
+  }
+}
